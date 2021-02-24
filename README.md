@@ -2,7 +2,7 @@
  TDMP-MERCHANTS-FRONTEND-VUE-WITH-API
  <p>
  </p>
- <img src="https://github.com/gispatial/tripcarte-asia/blob/master/public/tdpm-home.png" width="100%">
+ <img src="https://github.com/gispatial/api-tdpm/blob/master/home.png" width="100%">
  
 ## API-TDPM
 <table data-v-7b6b9330="">
